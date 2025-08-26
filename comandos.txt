@@ -1,0 +1,9 @@
+->Dados do Usuário Configurado:
+git config user.name
+git config user.email
+
+->Aplicar nome do usuário:
+git config --global user.name "AdryanTheMage"
+
+->Aplicar email do usuário:
+git config --global user.email "adycbranco@gmail.com"
